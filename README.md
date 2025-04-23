@@ -52,7 +52,7 @@ Feito com ❤️ por teuzowebdeveloper9
 
 Siga os passos abaixo para configurar e iniciar o projeto localmente:
 
-### 1. Clone o repositório:
+
 
 ```bash
 git clone https://github.com/teuzowebdeveloper9/teste-avanti-2/
