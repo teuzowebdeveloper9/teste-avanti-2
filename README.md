@@ -23,6 +23,12 @@ Foi desafiador, mas ao mesmo tempo muito **divertido**. E o mais importante: **a
 - CSS3
 - API pública do GitHub
 
+---
+##  veja o projeto no ar 
+
+https://teste-avanti-2-urxq.vercel.app/
+---
+
 ## 📸 Resultado
 
 > Esse é o resultado do meu esforço, e eu realmente espero que vocês gostem!  
