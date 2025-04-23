@@ -1,35 +1,35 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import githubIcon from './img/github.png'
+
 
 function App() {
-  const [count, setCount] = useState(0)
+ return (
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+  <main>
+  <div className='box-search'>
+    <img src={githubIcon} alt="github-perfil" />
+    <div className='search'>
+      <input type="text" placeholder='Digite o nome do usuário' />
+      <button><span className="material-symbols-outlined">search</span></button>
+    </div>
+    {/* ===== INÍCIO DA DIV PERFIS - REMOVER DAQUI ===== */}
+    <div className='perfis'>
+      <div className='foto-perfil'>
+        <img src="https://avatars.githubusercontent.com/u/196498933?v=4" alt="foto-perfil" />     
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+      <div className='info-perfil'>
+        <div className='nome-perfil'>
+          <h2>teuzowebdeveloper9</h2>
+        </div>
+        <p className='bio'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    </div>
+    {/* ===== FIM DA DIV PERFIS POSSO APAGAR AQUI ===== */}
+  </div>
+ </main>
+
+ )
+  
 }
 
 export default App
