@@ -26,7 +26,7 @@ Foi desafiador, mas ao mesmo tempo muito **divertido**. E o mais importante: **a
 ---
 ##  veja o projeto no ar 
 
-![upado na vercel](https://teste-avanti-2-urxq.vercel.app/)
+https://teste-avanti-2-urxq.vercel.app/
 ---
 
 ## 📸 Resultado
