@@ -48,9 +48,26 @@ Foi desafiador, mas ao mesmo tempo muito **divertido**. E o mais importante: **a
 
 Feito com ❤️ por teuzowebdeveloper9
 ---
+## 🛠️ Como rodar o projeto Localmente
 
+Siga os passos abaixo para configurar e iniciar o projeto localmente:
 
+### 1. Clone o repositório:
 
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd nome-da-pasta
+
+npm install
+
+npm run dev
+
+http://localhost:5173
+
+Caso esteja usando Yarn, substitua npm por yarn.
+
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
