@@ -55,9 +55,9 @@ Siga os passos abaixo para configurar e iniciar o projeto localmente:
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/teuzowebdeveloper9/teste-avanti-2/
 
-cd nome-da-pasta
+cd teste-avanti-2
 
 npm install
 
