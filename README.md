@@ -26,7 +26,7 @@ Foi desafiador, mas ao mesmo tempo muito **divertido**. E o mais importante: **a
 ---
 ##  veja o projeto no ar 
 
-https://teste-avanti-2-ilx4yadry-mateus-silvas-projects-2f8fdcdf.vercel.app/
+https://teste-avanti-2-urxq-6h1bbmcio-mateus-silvas-projects-2f8fdcdf.vercel.app/
 ---
 
 ## 📸 Resultado
